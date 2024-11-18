@@ -181,16 +181,14 @@ class Program
 {
     public static void Main()
     {
-        // Get the Type object for MyClass<T>
         Type type = typeof(MyClass<>);  // This represents MyClass<T> (open generic)
 
-        // Get the generic type parameters for MyClass<T>
+     
         Type[] typeParams = type.GetGenericArguments();
 
-        // Assume we are looking at the first generic type parameter (T)
+     
         Type genericParam = typeParams[0];
 
-        // Get the constraints on the generic parameter T
         Type[] constraints = genericParam.GetGenericParameterConstraints();
 
         // Display the constraints
