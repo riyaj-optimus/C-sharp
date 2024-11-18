@@ -1,0 +1,14 @@
+C:\Users\riya.j\source\repos\ref\ref\bin\Debug\net8.0\ref.exe
+C:\Users\riya.j\source\repos\ref\ref\bin\Debug\net8.0\ref.deps.json
+C:\Users\riya.j\source\repos\ref\ref\bin\Debug\net8.0\ref.runtimeconfig.json
+C:\Users\riya.j\source\repos\ref\ref\bin\Debug\net8.0\ref.dll
+C:\Users\riya.j\source\repos\ref\ref\bin\Debug\net8.0\ref.pdb
+C:\Users\riya.j\source\repos\ref\ref\obj\Debug\net8.0\ref.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\riya.j\source\repos\ref\ref\obj\Debug\net8.0\ref.AssemblyInfoInputs.cache
+C:\Users\riya.j\source\repos\ref\ref\obj\Debug\net8.0\ref.AssemblyInfo.cs
+C:\Users\riya.j\source\repos\ref\ref\obj\Debug\net8.0\ref.csproj.CoreCompileInputs.cache
+C:\Users\riya.j\source\repos\ref\ref\obj\Debug\net8.0\ref.dll
+C:\Users\riya.j\source\repos\ref\ref\obj\Debug\net8.0\refint\ref.dll
+C:\Users\riya.j\source\repos\ref\ref\obj\Debug\net8.0\ref.pdb
+C:\Users\riya.j\source\repos\ref\ref\obj\Debug\net8.0\ref.genruntimeconfig.cache
+C:\Users\riya.j\source\repos\ref\ref\obj\Debug\net8.0\ref\ref.dll
