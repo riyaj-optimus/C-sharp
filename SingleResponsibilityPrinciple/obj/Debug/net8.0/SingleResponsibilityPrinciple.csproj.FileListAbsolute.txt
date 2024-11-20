@@ -1,0 +1,14 @@
+C:\Users\riya.j\source\repos\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\obj\Debug\net8.0\SingleResponsibilityPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\riya.j\source\repos\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\obj\Debug\net8.0\SingleResponsibilityPrinciple.AssemblyInfoInputs.cache
+C:\Users\riya.j\source\repos\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\obj\Debug\net8.0\SingleResponsibilityPrinciple.AssemblyInfo.cs
+C:\Users\riya.j\source\repos\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\obj\Debug\net8.0\SingleResponsibilityPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\riya.j\source\repos\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\bin\Debug\net8.0\SingleResponsibilityPrinciple.exe
+C:\Users\riya.j\source\repos\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\bin\Debug\net8.0\SingleResponsibilityPrinciple.deps.json
+C:\Users\riya.j\source\repos\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\bin\Debug\net8.0\SingleResponsibilityPrinciple.runtimeconfig.json
+C:\Users\riya.j\source\repos\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\bin\Debug\net8.0\SingleResponsibilityPrinciple.dll
+C:\Users\riya.j\source\repos\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\bin\Debug\net8.0\SingleResponsibilityPrinciple.pdb
+C:\Users\riya.j\source\repos\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\obj\Debug\net8.0\SingleResponsibilityPrinciple.dll
+C:\Users\riya.j\source\repos\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\obj\Debug\net8.0\refint\SingleResponsibilityPrinciple.dll
+C:\Users\riya.j\source\repos\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\obj\Debug\net8.0\SingleResponsibilityPrinciple.pdb
+C:\Users\riya.j\source\repos\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\obj\Debug\net8.0\SingleResponsibilityPrinciple.genruntimeconfig.cache
+C:\Users\riya.j\source\repos\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\obj\Debug\net8.0\ref\SingleResponsibilityPrinciple.dll
