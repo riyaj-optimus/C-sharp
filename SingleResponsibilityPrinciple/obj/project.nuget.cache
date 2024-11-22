@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "HkaGucIRaaM=",
+  "dgSpecHash": "IajjDNwwjVw=",
   "success": true,
   "projectFilePath": "C:\\Users\\riya.j\\source\\repos\\SingleResponsibilityPrinciple\\SingleResponsibilityPrinciple\\SingleResponsibilityPrinciple.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\riya.j\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\riya.j\\.nuget\\packages\\unity\\5.11.10\\unity.5.11.10.nupkg.sha512"
+  ],
   "logs": []
 }

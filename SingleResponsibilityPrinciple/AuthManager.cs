@@ -23,7 +23,7 @@ namespace SingleResponsibilityPrinciple
 
         public Employee GetCurrentlyLogedInUser()
         {
-            return new Employee();
+            return new Employee(new FileLogger());
         }
         //highly cohesive : strong strength of relationship
     }
